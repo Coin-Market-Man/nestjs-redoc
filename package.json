@@ -1,6 +1,6 @@
 {
   "name": "@coin-market-man/nestjs-redoc",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "NestJS ReDoc frontend",
   "repository": "https://github.com/Coin-Market-Man/nestjs-redoc",
   "author": "Alfonso Reyes",
